@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Galleria — Luxury Shopping, Dining & Entertainment",
+  "description": "Experience world-class shopping across 240+ luxury boutiques, Michelin-guide rooftop dining, CineLuxe IMAX theatre, interactive wayfinding floor plans, and VIP concierge services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
